@@ -1,0 +1,5 @@
+No dependencies present.
+
+UnZip the file and run it on visual studio 2010.
+
+Instructions to run the code is given in Readme.txt file.
